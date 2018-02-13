@@ -1,0 +1,11 @@
+.monospace,
+.source-code {
+	font-size: 20px !important;
+	font-family: Inconsolata, monospace !important;
+}
+
+::shadow .monospace,
+::shadow .source-code {
+	font-size: 20px !important;
+	font-family: Inconsolata, monospace !important;
+}
